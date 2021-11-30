@@ -16,7 +16,8 @@
     "@deepkit/type": "^1.0.1-alpha.58",
     "next": "^11.1.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "reflect-metadata" : "^0.1.13"
   },
   "devDependencies": {
     "@types/node": "16.11.11",
