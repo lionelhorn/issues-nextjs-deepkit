@@ -49,4 +49,6 @@ export function testDeepkit() {
     //validate. Empty array when successfully validated and
     //array of detailed validation errors if not.
     const errors = validate(User, back);
+
+    return back;
 }
