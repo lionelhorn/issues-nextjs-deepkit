@@ -1,3 +1,4 @@
+import "reflect-metadata";
 import {classToPlain, plainToClass, t, validate} from '@deepkit/type';
 
 class Config {
